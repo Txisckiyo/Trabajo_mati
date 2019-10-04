@@ -5,12 +5,11 @@
 0) Des de quin any existeixen "nous prefixes informàtics"  https://es.wikipedia.org/wiki/Terabyte 
 
 1) Ordenar per tamany els seguents arxius:  4000 KB, 0.3GB , 5MB, 0.02 GB , 400 KB, 0.5MB
-
-2) A un USB de 16GB quants arxius de video de 500MB hi caben? 
+400 KB, 0.5MB, 4000KB, 5 MB, 0.02 GB,0.3 GB.  
  Primer: Tot en les mateixes unitats      Segon: Factor conversió:  16GB  x  1 arxiu / 0.5GB
 
 3) Quantes fotos de 325KB caben a un CD (700MB) 
-
+Caben 2153 fotos.
 5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
 
 6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
