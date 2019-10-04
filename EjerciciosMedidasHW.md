@@ -19,6 +19,7 @@ Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitari
    Quants CD necessito per guardar-lo? Quants Blu-ray?
 
 8) Sabiendo que un DVD de simple capa tiene una capacidad de 4,7 GB, que la capacidad de un CD es de 700 MB calcula a cuantos CDs equivale dicho DVD.
+7.040
 
 9) Suponiendo que 2 horas de cine en calidad Divx ocupan 700 MB, calcula cuántas películas podemos almacenar en un disco duro de 1,5 TB
 
