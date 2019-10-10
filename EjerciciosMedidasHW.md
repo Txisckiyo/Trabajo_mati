@@ -14,12 +14,15 @@
 3) Quantes fotos de 325KB caben a un CD (700MB) 
 Caben 2153 fotos.
 5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
+2800 fotos
 
 6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
 Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitaria?
+91.43 cd i 13.61 dvd
 
 7) Un arxiu DIV-X ocupa 5,6GB . 
    Quants CD necessito per guardar-lo? Quants Blu-ray?
+8 cd i ...
 
 8) Sabiendo que un DVD de simple capa tiene una capacidad de 4,7 GB, que la capacidad de un CD es de 700 MB calcula a cuantos CDs equivale dicho DVD.
 7.040
